@@ -157,23 +157,6 @@
       "type": "Feature",
       "properties": {},
       "geometry": {
-        "type": "LineString",
-        "coordinates": [
-          [
-            144.75688934326172,
-            -37.87336286164082
-          ],
-          [
-            144.75842893123627,
-            -37.87358305575012
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {},
-      "geometry": {
         "type": "Polygon",
         "coordinates": [
           [
