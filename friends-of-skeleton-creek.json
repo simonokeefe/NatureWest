@@ -4,6 +4,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "rowid_": "cfbeec0a-a935-490f-b261-2566c06d2198"
       },
       "geometry": {
@@ -37,6 +42,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "rowid_": "55292e0f-b4ba-4a34-ab33-52ebedba7bac"
       },
       "geometry": {
@@ -70,6 +80,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "rowid_": "0040d68b-decb-43e2-b6ea-85b9c630ce93"
       },
       "geometry": {
@@ -103,6 +118,11 @@
     {
       "type": "Feature",
       "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
         "rowid_": "49189e22-cd2e-49dc-8474-c2ed66dbbd4e"
       },
       "geometry": {
@@ -155,7 +175,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "13b0515d-570d-4e51-8e98-474fe1785fb1"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -186,7 +213,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "1519f79d-11d7-4a3e-b473-7719dda38463"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -241,7 +275,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "Bd641ac9e-7e32-492e-a551-ff59b4182506"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -304,7 +345,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "736e00e1-77ca-4ceb-8d3f-12607d1ef1e0"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -387,7 +435,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "92370ddc-b801-46aa-ad45-ef010e88af3f"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -422,7 +477,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "854aaa19-2eab-4a61-8b96-abf1959fd0a2"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -453,7 +515,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "8c237d2e-2e57-4a35-b12b-9861fae8c9fc"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
@@ -492,7 +561,14 @@
     },
     {
       "type": "Feature",
-      "properties": {},
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "rowid_": "c3346d72-ef6f-4ba0-afdd-ad315e0254fc"
+      },
       "geometry": {
         "type": "Polygon",
         "coordinates": [
